@@ -1,0 +1,97 @@
+body{
+	font-family: "open Sans", Helvetica, sans-serif;
+}
+
+h1{
+	font-weight: bolder;
+}
+
+.region {
+	font-weight: bold;
+	margin-right: 8px;
+	color: gray;
+}
+
+.category-hr{
+	margin-top: 4px;
+	margin-bottom: 4px;
+	opacity: 0.1;
+}
+
+.shortcuts a{
+	font-weight: bold;
+	margin-right: 8px;
+}
+
+.city-row{
+	margin-top: 60px;
+}
+
+h2{
+	font-size: 2em;
+	margin-bottom: 40px;
+	font-weight: bold;
+	color: lightgray;
+	text-align: center;
+}
+
+.prereq{
+	font-weight: bold;
+	color: grey;
+}
+
+.prereq span{
+	margin-right: 8px;
+}
+
+iframe { 
+  width: 100%;
+  border: 2px solid lightgrey;
+  aspect-ratio: 16 / 9;
+  margin-top: 4px;
+  margin-bottom: 0px;
+}
+
+h3{
+	font-size: 1.3em;
+	margin-bottom: 0px;
+	display: inline-block;
+	line-height: 1em;
+	font-weight: bolder;
+	color: darkred;
+}
+
+.video-author{
+	color: gray;
+	text-transform: capitalize;
+	font-size: 0.9em;
+	text-align: bottom;
+}
+
+.text-bg-success{
+	font-size: 0.7em;
+	vertical-align: middle;
+}
+
+.key-stats{
+	margin-top: 0px;
+	font-size: 1em;
+}
+
+.col-lg-4{
+	margin-bottom: 45px;
+}
+
+.back-to-top{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	font-weight: bold;
+}
+
+.form-row{
+	margin-bottom: 30px;
+}
+
+input{
+	display: inline-block;
+}
